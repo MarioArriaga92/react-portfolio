@@ -9,13 +9,13 @@
     "email": "ing.mario.arriaga@gmail.com",
     "phone": "+52 686 278 8437",
     "address": {
-      "street": "Calle 12 Ote. #809",
-      "city": "San Andres Cholula",
+      "street": "",
+      "city": "San Andres Cholula (Puebla, Mexico)",
       "state": "Puebla",
       "zip": "72810"
     },
     "website": "http://www.timbakerdev.com",
-    "resumedownload": "http://timbakerdev.com",
+    "resumedownload": "https://happy-goldstine-e1926e.netlify.app/",
     "social": [
       {
         "name": "facebook",
@@ -115,7 +115,7 @@
   "portfolio": {
     "projects": [
       {
-        "title": "FRN Stack Amazon Clone",
+        "title": "FRN Stack Amazon Clone (pending to modify image and url)",
         "category": "Amazon Clone built with FRN (MongoDB, ExpressJS, ReactJS, NodeJS)",
         "image": "whatsapp-mern.jpeg",
         "url": "https://www.youtube.com/watch?v=gzdQDxzW2Tw"
