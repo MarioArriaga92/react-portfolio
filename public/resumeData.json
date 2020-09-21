@@ -54,19 +54,19 @@
         "company": "Epam Systems Mexico",
         "title": "Software Engineer in Test",
         "years": "March 2019 - Present",
-        "description": "Development and Maintenance of Selenium WebDriver + RestSharp + C#/.NET + Specflow based Test Automation Frameworks, blackbox & whitebox testing in Scrum & Kanban cross functional software development teams for Auditing, Tax and Accounting web applications and services."
+        "description": "Development and Maintenance of Selenium WebDriver + RestSharp + C#/.NET + Specflow + NUnit based Test Automation Frameworks, blackbox & whitebox testing in Scrum & Kanban cross functional software development teams for Auditing, Tax and Accounting web applications and services."
       },
       {
         "company": "Nearshore Technology",
         "title": "Software Development Engineer in Test",
         "years": "Oct 2017 - Feb 2019",
-        "description": "Development and Maintenance of Selenium WebDriver + CodedUI + C#/.NET based Test Automation Frameworks, blackbox & whitebox testing in Scrum cross functional software development team for Healthcare Reporting web applications and services."
+        "description": "Development and Maintenance of Selenium WebDriver + CodedUI + C#/.NET + NUnit based Test Automation Frameworks, blackbox & whitebox testing in Scrum cross functional software development team for Healthcare Reporting web applications and services."
       },
       {
         "company": "Nearshore Technology",
-        "title": "C#/C++/.NET Software Development Engineer",
+        "title": "C#/C++ .NET Software Development Engineer",
         "years": "Jul 2017 - Oct 2017",
-        "description": "Development of C++/C# .NET Interop modules in software development team for Healthcare Supply management embedded application."
+        "description": "Development of C++/C# .NET Interop modules in software development team for Healthcare Supply management workstation application."
       }
     ],
     "skills": [
@@ -87,15 +87,11 @@
         "level": "75%"
       },
       {
-        "name": "Figma && Adobe XD",
-        "level": "10%"
-      },
-      {
         "name": "HTML5",
         "level": "75%"
       },
       {
-        "name": "MongoDB",
+        "name": "Firebase",
         "level": "10%"
       },
       {
